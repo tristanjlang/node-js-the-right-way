@@ -1,6 +1,6 @@
-database/node_modules/
-database/cache/
 messaging/node_modules/
-database/rdf-files.tar.bz2
-database/*.dump
-database/npm-debug.log
+databases/npm-debug.log
+databases/cache/
+databases/erl_crash.dump
+databases/node_modules/
+databases/rdf-files.tar.bz2
