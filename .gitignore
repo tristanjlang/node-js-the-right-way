@@ -1,6 +1,6 @@
-database/node_modules
-database/cache
-messaging/node_modules
+database/node_modules/
+database/cache/
+messaging/node_modules/
 database/rdf-files.tar.bz2
 database/*.dump
 database/npm-debug.log

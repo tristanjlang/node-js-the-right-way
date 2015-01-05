@@ -1,0 +1,32 @@
+null { _id: '132',
+  title: 'The Art of War',
+  authors: 
+   { '0': 'Giles, Lionel',
+     '1': 'Sunzi, active 6th century B.C.',
+     options: 
+      { withDomLvl1: true,
+        normalizeWhitespace: false,
+        xmlMode: false,
+        decodeEntities: true },
+     _root: { '0': [Object], options: [Object], length: 1, _root: [Circular] },
+     length: 2,
+     prevObject: 
+      { '0': [Object],
+        '1': [Object],
+        options: [Object],
+        _root: [Object],
+        length: 2,
+        prevObject: [Object] } },
+  subjects: 
+   { options: 
+      { withDomLvl1: true,
+        normalizeWhitespace: false,
+        xmlMode: false,
+        decodeEntities: true },
+     _root: { '0': [Object], options: [Object], length: 1, _root: [Circular] },
+     length: 0,
+     prevObject: 
+      { options: [Object],
+        _root: [Object],
+        length: 0,
+        prevObject: [Object] } } }
