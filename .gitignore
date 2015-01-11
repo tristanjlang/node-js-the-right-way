@@ -3,4 +3,5 @@ databases/npm-debug.log
 databases/cache/
 databases/erl_crash.dump
 databases/node_modules/
+npm-debug.log
 databases/rdf-files.tar.bz2
